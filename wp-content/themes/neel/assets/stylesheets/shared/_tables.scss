@@ -1,0 +1,68 @@
+table {
+  background-color: transparent;
+  border-spacing: 1px; 
+  border-collapse: collapse;
+  border-radius:8px;
+  overflow:hidden;
+  margin: 0 0 1.5em;
+  max-width: 800px;
+  width:100%;
+  word-break: normal;
+}
+table col[class*="col-"] {
+  position: static;
+  display: table-column;
+  float: none;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+  position: static;
+  display: table-cell;
+  float: none;
+}
+tbody {
+  border: 1px solid $color__border-color;
+}
+td, th {
+  border: 1px solid $color__border-color;
+  padding: 5px 4px;
+}
+thead {
+  background: #eee;
+  border-bottom: 1px solid $color__border-color;
+}
+th {
+  font-weight: bold;
+  color: #212121;
+  text-align: left;
+}
+tfoot {
+  font-weight: bold;
+  color: $color__text-main;
+  border-top: 1px solid $color__border-color;
+}
+
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: $color__text-summary;
+  text-align: left;
+}
+th {
+  background: $color__text-main;
+  color: #ffffff;
+  padding: 8px;
+  text-align: left;
+}
+tr {
+  border-bottom: 1px solid $color__border-color;
+}
+tr.even {
+  background-color: #f8f8f8;
+}
+@media all and ( min-width: 768px ) {
+  td, th {
+    border: 1px solid $color__border-color;
+    padding: 8px 10px;
+  }
+}

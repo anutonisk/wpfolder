@@ -1,0 +1,82 @@
+.comment-content a {
+	word-wrap: break-word;
+}
+.bypostauthor {
+	display: block;
+}
+
+#reply-title {
+	margin-top: 10px;
+	margin-bottom: 0.2em;
+}
+
+.logged-in-as {
+	a {
+		font-size: 0.9em;
+	}
+}
+
+.comments-area {
+	font-size: 1em;
+	.comments-title {
+		margin-bottom: 1em;
+	}
+}
+.comment-respond {
+	width: 100%;
+}
+#commentform {
+	textarea,
+	input:not(.submit) {
+		background: transparent;
+		width: 100%;
+	} 
+	label {
+		width: 100%;
+	}
+	#wp-comment-cookies-consent {
+		width: auto;
+	}
+}
+
+.comment-form-cookies-consent {
+	#wp-comment-cookies-consent {
+		width: auto;
+	}
+	#wp-comment-cookies-consent, label {
+		display: inline;
+	}
+}
+
+.comment-author {
+	.avatar {
+		border: 1px solid transparent;
+		border-radius: 50%;
+	}
+}
+
+.comment-metadata {
+	margin-bottom: 1em;
+	a {
+		color: #929292;
+		font-size: 0.8em;
+	}
+}
+
+.comment-body {
+	margin-bottom: 1em;
+	.reply {
+		margin-bottom: 1em;
+		.comment-reply-link {
+			border: 1px solid #929292;
+			color: #929292;
+			padding: 4px 7px;
+		}
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.comment-body {
+		margin-bottom: 2.5em;
+	}
+}

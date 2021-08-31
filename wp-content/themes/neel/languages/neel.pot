@@ -1,0 +1,481 @@
+# Copyright (C) 2021 FalguniThemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Neel 1.0.0\n"
+"Report-Msgid-Bugs-To: https://falgunithemes.com\n"
+"Last-Translator: FalguniThemes <support@falgunithemes.com>\n"
+"Language-Team: FalguniThemes <support@falgunithemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-31 10:08+0400\n"
+"PO-Revision-Date: 2021-07-08 5:30+ZONE\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: neel\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: gruntfile.js\n"
+"X-Poedit-SearchPathExcluded-2: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-3: package.json\n"
+"X-Poedit-SearchPathExcluded-4: phpcs.xml.dist\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:36
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:55 index.php:53 search.php:58
+msgid "Prev"
+msgstr ""
+
+#: archive.php:56 index.php:54 search.php:59
+msgid "Next"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:67
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:70
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:71
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: components/footer/site-info.php:14
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: components/footer/site-info.php:14
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: components/footer/site-info.php:16
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: components/header/slider-posts.php:54 inc/template-tags.php:257
+#: inc/template-tags.php:258
+msgid "Read More"
+msgstr ""
+
+#: components/navigation/navigation-primary.php:29
+msgid "Menu"
+msgstr ""
+
+#: components/page/content-page.php:31 components/post/content-search.php:47
+#: components/post/content-single.php:39 components/post/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: components/page/content-page.php:41 inc/template-tags.php:95
+#: inc/template-tags.php:241
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: components/post/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: components/post/content.php:27
+msgid "Featured"
+msgstr ""
+
+#: components/post/post-full-content.php:16
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Footer Widget Area - Left"
+msgstr ""
+
+#: functions.php:109 functions.php:119 functions.php:129
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Widget Area - Center"
+msgstr ""
+
+#: functions.php:127
+msgid "Footer Widget Area - Right"
+msgstr ""
+
+#: functions.php:165
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:166
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:197
+msgctxt "Google font for body text: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:203
+msgctxt " Gogle font for heading text: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:51
+msgid "Close Search"
+msgstr ""
+
+#: inc/custom-header.php:32
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:52
+msgid "Banner Section"
+msgstr ""
+
+#: inc/custom-header.php:60
+msgid "Banner Options"
+msgstr ""
+
+#: inc/custom-header.php:67
+msgid "Only on frontpage"
+msgstr ""
+
+#: inc/custom-header.php:68
+msgid "On frontpage and other pages"
+msgstr ""
+
+#: inc/custom-header.php:69
+msgid "On frontpage and blog posts"
+msgstr ""
+
+#: inc/custom-header.php:70
+msgid "All pages and posts"
+msgstr ""
+
+#: inc/custom-header.php:72
+msgid "Banner Display On"
+msgstr ""
+
+#: inc/custom-header.php:76
+msgid "None"
+msgstr ""
+
+#: inc/custom-header.php:77
+msgid "Color"
+msgstr ""
+
+#: inc/custom-header.php:78
+msgid "Image"
+msgstr ""
+
+#: inc/custom-header.php:79
+msgid "Posts Slider"
+msgstr ""
+
+#: inc/custom-header.php:81
+msgid "Banner Type"
+msgstr ""
+
+#: inc/custom-header.php:85
+msgid "Style 1(No background)"
+msgstr ""
+
+#: inc/custom-header.php:86
+msgid "Style 2(Light background)"
+msgstr ""
+
+#: inc/custom-header.php:87
+msgid "Style 3(Dark background)"
+msgstr ""
+
+#: inc/custom-header.php:89
+msgid "Banner Head Text Style"
+msgstr ""
+
+#: inc/custom-header.php:99
+msgid "Slider Posts Category"
+msgstr ""
+
+#: inc/custom-header.php:102
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/custom-header.php:105
+msgid "Banner Text Color"
+msgstr ""
+
+#: inc/custom-header.php:105
+msgid "Banner text color value applies only when header text style is set to Style1"
+msgstr ""
+
+#: inc/custom-header.php:108
+msgid "Banner Title"
+msgstr ""
+
+#: inc/custom-header.php:111
+msgid "Banner Subtitle"
+msgstr ""
+
+#: inc/custom-header.php:114
+msgid "Button text"
+msgstr ""
+
+#: inc/custom-header.php:117
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Applied to some of the elements on Page and Post."
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Theme Other Options"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Blog Page Settings"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "How would you like to display post content on Blog posts index page?"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Default length is 30 characters. Min. 0 and Max. 54 characters."
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Social Menu Section"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Enable Social Media Icons in top Navigation."
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Credit Card"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Social Media Name"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Social Media URL"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Search Box"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Add Search button to the Top Navigation."
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Hide search button on small devices."
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Dark Color Mode"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Add Dark/Bright Mode Button in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "If dark mode is set as default mode then dark/bright mode switch will not be added to the primary menu."
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Set Dark Mode as default color scheme."
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Hide dark mode switch on small devices."
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Bordered Box(Default)"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Simple Box"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Shadowed Box"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "One Container"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Container"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "Theme Information Links"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Theme Homepage"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/template-tags.php:74 inc/template-tags.php:80 inc/template-tags.php:114
+#: inc/template-tags.php:151
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid " Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid " 1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid " % Comments"
+msgstr ""
+
+#: inc/template-tags.php:134
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:347
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:351
+msgctxt "post navigation"
+msgid "Previous Post: "
+msgstr ""
+
+#: inc/template-tags.php:351
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:356
+msgctxt "post navigation"
+msgid "Next Post: "
+msgstr ""
+
+#: inc/template-tags.php:356
+msgid "Next Post"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

@@ -1,0 +1,356 @@
+# Translation of Themes - Kids Campus in Russian
+# This file is distributed under the same license as the Themes - Kids Campus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-18 22:08:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Kids Campus\n"
+
+#. Theme Name of the theme
+msgid "Kids Campus"
+msgstr "Kids Campus"
+
+#. Description of the theme
+msgid "Kids Campus is a fresh and lively, vibrant and colorful, visually spacious and stimulating, youthful and attractive, creative and delightful, charming and easy to use kindergarten WordPress theme. This theme is perfect for making preschool, kindergartens, professional child care centers and other child related websites. It can also be used for college, school education, nursery, daycare, coaching institute, secondary and primary school, afterschool activities clubs and similar educational organizations. This theme is one of the professionally designed website template that can help you create a beautiful kindergarten website in an instant. Demo Link: http://www.gracethemesdemo.com/kids-campus/"
+msgstr "Kids Campus — свежая и живая, яркая и красочная, визуально просторная и стимулирующая, юношеская и привлекательная, креативная и восхитительная, очаровательная и простая в использовании тема WordPress для детского сада. Эта тема идеально подходит для создания дошкольных учреждений, детских садов, профессиональных центров по уходу за детьми и других сайтов, связанных с детьми. Она может также использоваться для колледжа, школьного образования, детского сада, дневного ухода, института, средней и начальной школ, клубов послешкольных мероприятий и подобных образовательных организаций. Эта тема является одним из профессионально разработанных шаблонов сайтов, которые помогут вам мгновенно создать красивый сайт для детского сада. Демо: http://www.gracethemesdemo.com/kids-campus/"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/customizer.php:312
+msgid "Welcome Section"
+msgstr "Приветственный раздел"
+
+#: inc/customizer.php:313
+msgid "Select Pages from the dropdown for welcome section"
+msgstr "Выберите страницы из выпадающего списка для приветственного раздела"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#: inc/customizer.php:257
+msgid "Select pages from the dropdown for services section"
+msgstr "Выберите страницы из выпадающего списка для раздела услуг"
+
+#: inc/customizer.php:256
+msgid "Kids Services Section"
+msgstr "Раздел детских услуг"
+
+#: inc/customizer.php:249 inc/customizer.php:305 inc/customizer.php:338
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:224
+msgid "Select page for slider third:"
+msgstr "Выберите страницу для третьего слайдера:"
+
+#: inc/customizer.php:212
+msgid "Select page for slider second:"
+msgstr "Выберите страницу для второго слайдера:"
+
+#: inc/customizer.php:200
+msgid "Select page for slider first:"
+msgstr "Выберите страницу для первого слайдера:"
+
+#: inc/customizer.php:188
+msgid "Default image size for slider is 1400 x 850 pixel."
+msgstr "Размер изображения по умолчанию для слайдера составляет 1400x850 пикселей."
+
+#: inc/customizer.php:186
+msgid "Header Slider Section"
+msgstr "Раздел заголовка слайдера"
+
+#: inc/customizer.php:165
+msgid "Add linkedin link here"
+msgstr "Добавьте здесь ссылку на LinkedIn"
+
+#: inc/customizer.php:154
+msgid "Add google plus link here"
+msgstr "Добавьте здесь ссылку на Google+"
+
+#: inc/customizer.php:143
+msgid "Add twitter link here"
+msgstr "Добавьте здесь ссылку на Твиттер"
+
+#: inc/customizer.php:132
+msgid "Add facebook link here"
+msgstr "Добавьте здесь ссылку на Facebook"
+
+#: inc/customizer.php:121
+msgid "Add social icons link here to display icons in header."
+msgstr "Добавьте здесь ссылки для социальных значков, чтобы показывать значки в заголовке."
+
+#: inc/customizer.php:120
+msgid "Header social icons"
+msgstr "Социальные значки в заголовке"
+
+#: inc/customizer.php:113 inc/customizer.php:179
+msgid "Check To show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:97
+msgid "Add email address here."
+msgstr "Укажите здесь электронную почту."
+
+#: inc/customizer.php:85
+msgid "Add phone number here"
+msgstr "Укажите здесь номер телефона."
+
+#: inc/customizer.php:73
+msgid "Header Contact info"
+msgstr "Контактная информация в заголовке"
+
+#: inc/customizer.php:65
+msgid "More color options in PRO Version"
+msgstr "Больше цветовых настрек в PRO-версии"
+
+#: inc/customizer.php:64
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:235
+msgid "Add slider Read more button name here"
+msgstr "Укажите название кнопки «Читать далее» в слайдере"
+
+#: inc/customizer.php:41
+msgid "Site Layout Options"
+msgstr "Настройки разметки сайта"
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr "Панель настроек темы"
+
+#: inc/about-themes.php:51
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr "Демо"
+
+#: inc/about-themes.php:43
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Полная совместимость с плагином WooCommerce. Просто установите плагин и превратите свой сайт в полнофункциональный интернет-магазин и начинайте продавать товары."
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr "Электронная коммерция"
+
+#: inc/about-themes.php:38
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Наши темы проверены во всех современных браузерах, включая Chrome, Firefox, Safari, Opera, IE11 и выше, и совместимы с их последними версиями."
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr "Совместимость с браузерами"
+
+#: inc/about-themes.php:33
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Разметка тем автоматически подстраивается под любое разрешение экрана и отлично смотрится на любом устройстве. Полностью оптимизировано под iPhone и iPad."
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-themes.php:28
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Встроенная панель настройщика быстро меняет дизайн и отображает изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#. translators: %s: search term
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: content-page.php:23 content-search.php:39 content-single.php:34 image.php:30
+#: image.php:62
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/about-themes.php:22
+msgid "Kids Campus is a fresh and lively, vibrant and colorful, visually spacious and stimulating, youthful and attractive, creative and delightful, charming and easy to use kindergarten WordPress theme. This theme is perfect for making preschool, kindergartens, professional child care centers and other child related websites. It can also be used for college, school education, nursery, daycare, coaching institute, secondary and primary school, afterschool activities clubs and similar educational organizations. This theme is one of the professionally designed website template that can help you create a beautiful kindergarten website in an instant."
+msgstr "Kids Campus — свежая и живая, яркая и красочная, визуально просторная и стимулирующая, юношеская и привлекательная, креативная и восхитительная, очаровательная и простая в использовании тема WordPress для детского сада. Эта тема идеально подходит для создания дошкольных учреждений, детских садов, профессиональных центров по уходу за детьми и других сайтов, связанных с детьми. Она может также использоваться для колледжа, школьного образования, детского сада, дневного ухода, института, средней и начальной школ, клубов послешкольных мероприятий и подобных образовательных организаций. Эта тема является одним из профессионально разработанных шаблонов сайтов, которые помогут вам мгновенно создать красивый сайт для детского сада."
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до PRO"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать свою первую запись? Начните отсюда."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: footer.php:49
+msgid "Theme by Grace Themes"
+msgstr "Тема от Grace Themes"
+
+#: footer.php:46
+msgid "Proudly Powered by WordPress"
+msgstr "Работает на WordPress"
+
+#. Translators: If there are any character that are not supported by Patrick
+#. Hand, trsnalate this to off, do not translate into your own language.
+#: functions.php:110
+msgctxt "Patrick Hand:on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are any character that are not supported by Assistant,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:98
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:79
+msgid "Footer Widget 3"
+msgstr "Виджет 3 нижней части"
+
+#: functions.php:69
+msgid "Footer Widget 2"
+msgstr "Виджет 2 нижней части"
+
+#: functions.php:59
+msgid "Footer Widget 1"
+msgstr "Виджет 1 нижней части"
+
+#: functions.php:50
+msgid "Appears on blog page sidebar"
+msgstr "Видно в области виджетов на странице блога"
+
+#: functions.php:60 functions.php:70 functions.php:80
+msgid "Appears on footer"
+msgstr "Видно в нижней части"
+
+#: functions.php:49
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr "Меню нижней части"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: content-page.php:18 content-search.php:28 content-single.php:23
+#: content.php:36 image.php:56 template-full-width.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:29
+msgid "Read more &rarr;"
+msgstr "Читать далее &rarr;"
+
+#: content-single.php:15 content.php:20
+msgid ", "
+msgstr ", "
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#: header.php:116
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr "Включите настройку разметки"
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr "Если вы хотите создать разметку, пожалуйста, включите настройку разметку."
+
+#. Translators: If there are any character that are not supported by Amatic SC,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:104
+msgctxt "Amatic SC:on or off"
+msgid "on"
+msgstr "off"
+
+#. Author of the theme
+msgid "Grace Themes"
+msgstr "Grace Themes"
+
+#. Theme URI of the theme
+msgid "https://gracethemes.com/themes/free-kindergarten-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-kindergarten-wordpress-theme/"

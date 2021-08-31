@@ -1,0 +1,25 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 1px solid;
+	border-color: $color__accent;
+	border-radius: 5px;
+	background: $color__accent;
+	color: #ffffff;
+	@include font-size(1);
+	font-weight: bold;
+	line-height: 1;
+	padding: 0.8em 1.2em 0.8em;
+	text-transform: capitalize;
+}
+
+.comment-respond {
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"] {
+		background: transparent;
+		color: $color__accent;
+	}
+}

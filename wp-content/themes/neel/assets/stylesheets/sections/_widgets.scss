@@ -1,0 +1,128 @@
+.widget {
+    
+    font-size: 17px;
+	margin: 0 0 2em;
+    padding: 20px;
+
+	/* Make sure select elements fit in widgets. */
+	select {
+		max-width: 100%;
+	}
+
+	ul,ol {
+		margin:0;
+	}
+}
+#secondary {
+    color: $color__text-summary;
+    .widget {
+        max-width: 100%;
+        word-wrap: break-word;
+    }
+}
+.widget-title {
+    font-size: 1.5rem;
+    margin: 10px 0 20px;
+}
+.widget-title:after {
+    background: $color__accent;
+    border: 1px solid transparent;
+    border-radius: 99px;
+    content: "";
+    height: 2px;
+    display: block;
+    width: 35px;
+    margin-top: 12px;
+}
+.widget {
+    a {
+        color: $color__text-summary;
+        text-decoration: none;
+    }
+    li{
+        border-bottom: 1px solid $color__border-color;
+        padding: 0.5em 0;
+    }
+    li:last-child{
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+    ul{
+        list-style: none;
+        padding: 0em;
+    }
+
+    ul ul {
+        padding: 0 0 0 15px;
+    }
+
+
+    th, td {
+      padding: 0.1em;
+      text-align: center;
+    }
+
+
+    select {
+        max-width: 100%;
+    }
+
+    hr{
+        border-color: $color__border-color;
+    }
+    table caption{
+        color: #455A64;
+    }
+
+    .rsswidget img{
+        margin-top: 12px;
+    }
+    input[type="search"].search-field {
+            width: -webkit-calc(100% - 35px);
+            width: calc(100% - 35px);
+    }
+
+    .search-submit:before {
+            font-size: 16px;
+            left: 1px;
+            line-height: 35px;
+            width: 34px;
+    }
+
+    button.search-submit {
+            padding: 0;
+            width: 35px;
+    }
+    li.blocks-gallery-item {
+        border: none;
+    }
+}
+.widget-title {
+    color: $color__text-heading;
+    .rsswidget{
+        color: $color__text-heading;
+    }
+}
+
+.widget_rss li{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#recentcomments li{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.widget_text img{
+    max-width: 100%;
+}
+.wp-calendar-table {
+    border-radius: 2px;
+    font-size: 16px;
+}
+@media all and (min-width: 992px) {
+    .widget {
+        padding: 30px 30px
+    }
+}
